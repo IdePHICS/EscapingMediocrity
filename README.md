@@ -26,7 +26,7 @@ This study explores the sample complexity for two-layer neural networks to learn
 # Unfortunately, the anonimize repo does not allow the 'git clone' command.
 # For the code to work, git submodules must also be installed.
 
-cd DimensionlessDynamicsSGD/
+cd EscapingMediocrity/
 # Install Python requirements
 pip install -r requirements
 # Install committee_learning package (it requires g++)
