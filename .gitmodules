@@ -1,1 +1,4 @@
 
+[submodule "committe-learning"]
+	path = committe-learning
+	url = https://github.com/arn4/committe-learning
