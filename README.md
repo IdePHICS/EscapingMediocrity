@@ -31,3 +31,6 @@ pip install -r requirements
 # Install committee_learning package (it requires g++)
 pip install -e committee_learning/
 ```
+
+#### Reference
+Luca Arnaboldi, Florent Krzakala, Bruno Loureiro, Ludovic Stephan *Escaping mediocrity: how two-layer networks learn hard single-index models with SGD*, 2023 [https://arxiv.org/abs/2305.18502](https://arxiv.org/abs/2305.18502).
